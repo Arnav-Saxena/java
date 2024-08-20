@@ -5,7 +5,7 @@ public class Test
     {
         Scanner sc = new Scanner(System.in);
         String text = sc.nextLine();
-        System.out.println("You said- "+text);
+        System.out.println("You said-"+text);
         sc.close();
     }
 }
