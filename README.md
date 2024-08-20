@@ -43,9 +43,5 @@ git commit -m "commit message"
 ## Push
 - Upload the finalized changes to the original repository
 ```
-git push <repo> <branch>
-```
-In most cases,
-```
-git push origin main
+git push origin <branch-name>
 ```
