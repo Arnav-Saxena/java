@@ -15,6 +15,8 @@ public class stac
 
         //String str = stack.pop();
 
+        System.out.println(stack);
+
         //System.out.println(stack.empty());
 
         //System.out.println(stack.peek());
